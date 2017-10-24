@@ -1,0 +1,10 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est A814-A369
+
+ R‚pertoire de C:\Users\Home\Desktop\startGit\repoBuzz
+
+24/10/2017  13:16    <DIR>          .
+24/10/2017  13:16    <DIR>          ..
+24/10/2017  13:16                 0 buzz.txt
+               1 fichier(s)                0 octets
+               2 R‚p(s)  67ÿ801ÿ866ÿ240 octets libres
